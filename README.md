@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on JavaScript, Python, or C++ projects.
 - 📚 I study C.S. at Tecnológico de Monterrey
 - 🧠 I like hikes, programming and philosophy.
+- 📄 You can view my resume [here](https://drive.google.com/file/d/17238hO2waX5ysYSCPqICShZtqV-6F8PZ/view)
+- 🌎 You can view my web portfolio [here](garrza.com)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=garrza&theme=onedark&margin-w=10&rank=-C,-?)
 
