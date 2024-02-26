@@ -6,6 +6,8 @@
 - 📚 I study C.S. at Tecnológico de Monterrey
 - 🧠 I like hikes, programming and philosophy.
 
+## garrza.com
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=garrza&theme=onedark&margin-w=10&rank=-C,-?)
 
 ## Contact
