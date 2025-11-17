@@ -1,13 +1,7 @@
 # About Me
 - 👋 Hi, I’m @garrza
+- Incoming SWE @ Uber
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Java, C++, Go or TypeScript projects.
-- 📚 I study C.S. at Tecnológico de Monterrey
-- 🧠 I like hikes, programming and philosophy.
-- 📄 You can view my resume [here](https://drive.google.com/file/d/17238hO2waX5ysYSCPqICShZtqV-6F8PZ/view)
-- 🌎 You can view my web portfolio [here](http://garrza.com/)
-
 
 ## Contact
 <a href="https://www.linkedin.com/in/ramiro-garza-villarreal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
