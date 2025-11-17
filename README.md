@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @garrza
-- Incoming SWE @ Uber
-- 👀 I’m interested in cybersecurity
+- ⭐️ Incoming SWE @ Uber
+- 👀 Interested in cybersecurity
 
 ## Contact
 <a href="https://www.linkedin.com/in/ramiro-garza-villarreal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
