@@ -2,7 +2,7 @@
 
 incoming swe @ uber
 
-currently brewing pour overs, optimizing factorio factories, and playing tennis when I'm not shipping code.
+brewing pour overs, optimizing factorio factories, and playing tennis when I'm not shipping code.
 
 learning cybersecurity on the side.
 
