@@ -2,7 +2,7 @@
 
 incoming swe @ uber
 
-brewing pour overs, optimizing factorio factories, and playing tennis when I'm not shipping code.
+brewing pour overs, optimizing factorio factories, and playing tennis when not shipping code.
 
 looking to augment humanity through secure and intelligent systems.
 
